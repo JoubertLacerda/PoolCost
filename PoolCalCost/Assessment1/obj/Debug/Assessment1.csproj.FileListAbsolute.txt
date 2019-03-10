@@ -1,0 +1,9 @@
+c:\users\pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\bin\Debug\Assessment1.exe.config
+c:\users\pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.csprojResolveAssemblyReference.cache
+c:\users\pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.PoolCal.resources
+c:\users\pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.Properties.Resources.resources
+c:\users\pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.csproj.GenerateResource.Cache
+C:\Users\Pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\bin\Debug\Assessment1.exe
+C:\Users\Pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\bin\Debug\Assessment1.pdb
+C:\Users\Pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.exe
+C:\Users\Pinheiro\documents\visual studio 2015\Projects\Assessment1\Assessment1\obj\Debug\Assessment1.pdb
